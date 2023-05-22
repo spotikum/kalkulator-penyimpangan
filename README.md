@@ -1,4 +1,7 @@
 Kalkulator Penyimpangan
 ```
-((kalkulator - arduino) / kalkulator) * 100
+kalkulator = kalkulator.txt
+arduino = arduino.txt
+
+hasil.txt = ((kalkulator - arduino) / kalkulator) * 100
 ```
