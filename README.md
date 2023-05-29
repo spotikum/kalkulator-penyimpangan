@@ -8,10 +8,10 @@
 - Kalkulator Perkaalian
 
 ```
-kalkulator = kalkulator.txt
-arduino = arduino.txt
+bilangan = bilangan.txt
+perkalian = perkalian.txt
 
-hasil.txt = ((kalkulator - arduino) / kalkulator) * 100
+hasil.txt = bilangan * perkalian
 ```
 - Kalkulator Penyimpangan
 
